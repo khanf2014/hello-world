@@ -1,2 +1,2 @@
 # hello-world
-hi i am trying to do soemthing.
+hi i am trying to do something.
